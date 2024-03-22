@@ -1,7 +1,7 @@
 I='KONDRASHOV'
 print (I)
 I_l=I[0]
-print (I_1)
+print (I_l)
 I_3=I[2]
 print (I_3)
 I_c3=I[-3]
@@ -10,7 +10,7 @@ print (len(I) )
 Look="I look at the lion"
 print (Look)
 Look_6=Look[:7]
-print (Look_8)
+print (Look_6)
 Start=int ((len (Look)) /2)-2
 Finish=int ((len(Look) ) /2)+2
 Look_4=Look[Start: Finish]
